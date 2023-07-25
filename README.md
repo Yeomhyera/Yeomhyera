@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20HopeWorld!&fontSize=90" />
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyera1010)](https://solved.ac/hyera1010)
+</div>
