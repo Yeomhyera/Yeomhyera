@@ -59,8 +59,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyera1010)](https://solved.ac/hyera1010)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyera1010)](https://solved.ac/hyera1010)
+
 </div>
 
 
