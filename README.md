@@ -5,14 +5,15 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=hyeraClass&fontSize=90)
 
+
   <a href="https://github.com/devxb/gitanimals">
     <img
-      src="https://render.gitanimals.org/farms/Yeomhyera"
-      width="600"
-      height="300"
+      src="https://render.gitanimals.org/lines/Yeomhyera?pet-id=653276397483153951"
+      width="900"
+      height="240"
     />
   </a>
-
+  
   <!--
 **Yeomhyera/Yeomhyera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -69,7 +70,7 @@ Here are some ideas to get you started:
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyera1010)](https://solved.ac/hyera1010)
 
   <a href="https://github.com/devxb/gitanimals">
-    <img  
+    <img
       src="https://render.gitanimals.org/farms/Yeomhyera"
       width="600"
       height="300"
