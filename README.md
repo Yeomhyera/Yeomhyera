@@ -69,7 +69,11 @@ Here are some ideas to get you started:
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyera1010)](https://solved.ac/hyera1010)
 
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/Yeomhyera" />
+    <img  
+      src="https://render.gitanimals.org/farms/Yeomhyera"
+      width="600"
+      height="300"
+    />
   </a>
 
 </div>
