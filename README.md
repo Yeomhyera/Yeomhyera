@@ -1,8 +1,6 @@
 <div align="center">
-
-# 🐿️ Welcome to HyeraClass 🐿️
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=hyeraClass&fontSize=90)
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=HyeraClass&fontSize=90)
 
 ---
 
@@ -41,7 +39,7 @@
   <img
     src="https://render.gitanimals.org/lines/Yeomhyera?pet-id=653276397483153951"
     width="1500"
-    height="240"
+    height="80"
   />
 </a>
 
