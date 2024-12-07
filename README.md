@@ -7,9 +7,9 @@
 
   <a href="https://github.com/devxb/gitanimals">
     <img
-      src="https://render.gitanimals.org/lines/Yeomhyera?pet-id=653276397483153951"
+      src="https://render.gitanimals.org/farms/Yeomhyera"
       width="600"
-      height="120"
+      height="300"
     />
   </a>
 
